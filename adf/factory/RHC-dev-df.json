@@ -1,0 +1,15 @@
+{
+	"name": "RHC-dev-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19c78396-3c0e-4f4a-a9e9-a2114eee99de",
+		"tenantId": "6d2be64b-a3f0-466f-9289-7111073ee509"
+	}
+}
