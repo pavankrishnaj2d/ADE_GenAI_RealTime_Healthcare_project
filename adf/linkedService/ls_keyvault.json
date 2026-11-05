@@ -1,9 +1,10 @@
 {
-  "name": "ls_keyvault",
-  "properties": {
-    "type": "AzureKeyVault",
-    "typeProperties": {
-      "baseUrl": "https://<key-vault-name>.vault.azure.net/"
-    }
-  }
+	"name": "ls_keyvault",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-genai-healthcare-2026.vault.azure.net/"
+		}
+	}
 }
